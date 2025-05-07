@@ -6,10 +6,6 @@
 
 ---
 
-## 🏆 Stats
-
-![Luhfilho's GitHub stats](https://github-readme-stats.vercel.app/api?username=luhfilho&show_icons=true&theme=radical)
-
 ## 🚀 Sobre mim
 
 Tenho mais de 15 anos de experiência em desenvolvimento de software, com passagens por cargos como **CTO**, **Tech Lead** e **Desenvolvedor Fullstack Sênior**. Ao longo da minha trajetória, atuei em projetos de alta complexidade, liderando equipes e criando arquiteturas robustas para sistemas distribuídos e de larga escala.
