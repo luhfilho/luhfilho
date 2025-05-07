@@ -1,33 +1,33 @@
-# 👋 Olá! Eu sou o Luciano Filho
+# 👋 Hello! I’m Luciano Filho
 
-👨‍💻 CTO | Tech Lead | Senior Fullstack Developer | Product Owner | Head de Produtos
-🌎 São Paulo, Brasil  
-💡 Especialista em arquitetura de software, DevOps e soluções escaláveis
-
----
-
-## 🚀 Sobre mim
-
-Tenho mais de 15 anos de experiência em desenvolvimento de software, com passagens por cargos como **CTO**, **Tech Lead** e **Desenvolvedor Fullstack Sênior**. Ao longo da minha trajetória, atuei em projetos de alta complexidade, liderando equipes e criando arquiteturas robustas para sistemas distribuídos e de larga escala.
-
-Sou apaixonado por tecnologia e constantemente envolvido em **laboratórios de inovação**, explorando novas linguagens, frameworks e soluções cloud-native.
+👨‍💻 CTO | Tech Lead | Senior Full-Stack Developer | Product Owner | Head of Product  
+🌎 São Paulo, Brazil  
+💡 Specialist in Software Architecture, DevOps, and Scalable Solutions
 
 ---
 
-## 🧰 Stack Tecnológico
+## 🚀 About Me
+
+I have over 15 years of experience in software development, having served in roles such as **CTO**, **Tech Lead**, and **Senior Full-Stack Developer**. Throughout my career, I have led high-complexity projects, directed teams, and designed robust architectures for large-scale, distributed systems.
+
+I am passionate about technology and am continually engaged in **innovation labs**, exploring new languages, frameworks, and cloud-native solutions.
+
+---
+
+## 🧰 Technology Stack
 
 ### Cloud & DevOps
 - AWS Lambda · AWS Step Functions · AWS S3 · AWS API Gateway  
 - AWS CloudFront · AWS CloudFormation · AWS CloudWatch  
 - AWS ECS · AWS CodeCommit  
 - Docker · Kubernetes · Serverless Framework  
-- CI/CD (GitHub Actions · GitHub Pipeline · Jenkins)  
-- Mensageria / Filas: Amazon SQS · RabbitMQ · PubSub Queues · PubNub · WebSocket
-- Google Cloud
-- Azure
+- CI/CD (GitHub Actions · GitHub Pipelines · Jenkins)  
+- Messaging / Queues: Amazon SQS · RabbitMQ · PubSub Queues · PubNub · WebSocket  
+- Google Cloud Platform  
+- Microsoft Azure  
 - Oracle Cloud
 
-### Linguagens de Programação
+### Programming Languages
 - Python · Node.js · JavaScript · TypeScript  
 - Java · C# · .NET · .NET Core · .NET Framework 4  
 - PHP · Elixir · Dart
@@ -37,37 +37,37 @@ Sou apaixonado por tecnologia e constantemente envolvido em **laboratórios de i
 - Flutter · Cordova · Electron  
 - HTML · CSS · jQuery · jQuery UI · jQuery Mobile
 
-### Back-end & Frameworks
-- Express.js · Spring Boot · Spring Cloud  · Serverless Framework
+### Back-end Frameworks
+- Express.js · Spring Boot · Spring Cloud · Serverless Framework  
 - Hibernate · Maven · Gradle
 
-### Bancos de Dados & Busca
+### Databases & Search
 - PostgreSQL · MySQL · MongoDB · Redis  
-- ElasticSearch · Apache Solr
+- Elasticsearch · Apache Solr
 
-### Arquiteturas & Padrões
-- Micro-services · Event-driven· Nano-services
+### Architectures & Patterns
+- Microservices · Event-Driven · Nano-services
 
 ---
 
-## 📜 Certificações e Cursos
+## 📜 Certifications & Courses
 
 - Express.js  
 - Docker  
 - Kubernetes  
-- Python
-- Gerente de Projetos  
+- Python  
+- Project Management Professional
 
 ---
 
-## 🌐 Idiomas
+## 🌐 Languages
 
-- Português (Nativo)  
-- Inglês (Full Professional)
+- Portuguese (Native)  
+- English (Full Professional Proficiency)
 
 ---
 
-## 📫 Contato
+## 📫 Contact
 
 - 📧 luh.filho@gmail.com  
 - 📱 +55 11 98460-1699  
