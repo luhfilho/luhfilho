@@ -40,13 +40,15 @@ I am passionate about technology and am continually engaged in **innovation labs
 ### Back-end Frameworks
 - Express.js · Spring Boot · Spring Cloud · Serverless Framework  
 - Hibernate · Maven · Gradle
+- NestJS · NextJS
+- Django · FastAPI
 
 ### Databases & Search
-- PostgreSQL · MySQL · MongoDB · Redis  
+- PostgreSQL · MySQL · MongoDB · Redis · DynamoDB
 - Elasticsearch · Apache Solr
 
 ### Architectures & Patterns
-- Microservices · Event-Driven · Nano-services
+- Microservices · Event-Driven · Nano-services · Service-Driven
 
 ---
 
